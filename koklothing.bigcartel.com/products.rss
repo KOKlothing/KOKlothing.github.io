@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KO Klothing</title>
+    <link>http://koklothing.bigcartel.com</link>
+    <atom:link href="http://koklothing.bigcartel.com/products.rss" rel="self" type="application/rss+xml"/>
+    <description>Powered by Big Cartel</description>
+    <generator>http://bigcartel.com</generator>
+    <language>en-us</language>
+    <image>
+      <url/>
+      <title>KO Klothing</title>
+      <link>http://koklothing.bigcartel.com</link>
+      <width>125</width>
+      <height>125</height>
+    </image>
+  </channel>
+</rss>
